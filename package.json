@@ -1,24 +1,24 @@
 {
-    "name": "metadata-json",
-    "description": "Framework for metadata encoded by Metadata-JSON.",
-    "homepage": "https://github.com/staruml/metadata-json",
-    "author": {
-        "name": "Minkyu Lee",
-        "email": "niklaus.lee@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/staruml/metadata-json.git"
-    },
-    "main": "metadata-json.js",
-    "version": "0.9.11",
-    "dependencies": {
-        "fs-extra": "11.1.0",
-        "requirejs": "2.3.6",
-        "underscore": "1.13.6",
-        "pdfkit": "0.13.0",
-        "ejs": "3.1.9",
-        "markdown": "0.5.0",
-        "escape-html": "1.0.3"
-    }
+  "name": "@dfns/metadata-json",
+  "version": "1.0.0",
+  "description": "Framework for metadata encoded by Metadata-JSON.",
+  "homepage": "https://github.com/staruml/metadata-json",
+  "author": {
+    "name": "Minkyu Lee",
+    "email": "niklaus.lee@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/staruml/metadata-json.git"
+  },
+  "main": "metadata-json.js",
+  "dependencies": {
+    "fs-extra": "11.1.0",
+    "requirejs": "2.3.6",
+    "underscore": "1.13.6",
+    "pdfkit": "0.13.0",
+    "ejs": "3.1.9",
+    "markdown": "0.5.0",
+    "escape-html": "1.0.3"
+  }
 }
